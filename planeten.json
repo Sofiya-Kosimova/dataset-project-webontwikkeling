@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "name": "Zyphora",
+    "description": "Een jungleplaneet met bioluminescente planten en gevaarlijke fauna.",
+    "populationInMillions": 12,
+    "isHabitable": true,
+    "discoveredAt": "3018-02-14",
+    "imageUrl": "https://example.com/images/planet-zyphora.jpg",
+    "climate": "tropical",
+    "resources": ["flora", "water", "bio-crystals"],
+    "galaxy": {
+      "id": 1,
+      "galaxyId": 1,
+      "galaxyName": "Aetherion"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Karnyx",
+    "description": "Een rotsachtige woestijnplaneet met extreme temperaturen.",
+    "populationInMillions": 0,
+    "isHabitable": false,
+    "discoveredAt": "3009-09-01",
+    "imageUrl": "https://example.com/images/planet-karnyx.jpg",
+    "climate": "arid",
+    "resources": ["iron", "silicon"],
+    "galaxy": {
+      "id": 2,
+      "galaxyId": 2,
+      "galaxyName": "Nebulon Expanse"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Elunara",
+    "description": "Een serene oceaanwereld met zwevende steden.",
+    "populationInMillions": 85,
+    "isHabitable": true,
+    "discoveredAt": "3020-07-22",
+    "imageUrl": "https://example.com/images/planet-elunara.jpg",
+    "climate": "oceanic",
+    "resources": ["water", "pearls", "energy-algae"],
+    "galaxy": {
+      "id": 3,
+      "galaxyId": 1,
+      "galaxyName": "Aetherion"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Dravion",
+    "description": "Een industriële planeet volledig bedekt met megasteden.",
+    "populationInMillions": 420,
+    "isHabitable": true,
+    "discoveredAt": "2995-12-05",
+    "imageUrl": "https://example.com/images/planet-dravion.jpg",
+    "climate": "urban",
+    "resources": ["technology", "energy-cells"],
+    "galaxy": {
+      "id": 4,
+      "galaxyId": 2,
+      "galaxyName": "Nebulon Expanse"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Cryost",
+    "description": "Een ijzige planeet met ondergrondse oceanen.",
+    "populationInMillions": 3,
+    "isHabitable": true,
+    "discoveredAt": "3011-01-30",
+    "imageUrl": "https://example.com/images/planet-cryost.jpg",
+    "climate": "frozen",
+    "resources": ["ice-water", "rare-gases"],
+    "galaxy": {
+      "id": 5,
+      "galaxyId": 3,
+      "galaxyName": "Voidreach"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Pyronex",
+    "description": "Een vulkanische planeet met constante lava-uitbarstingen.",
+    "populationInMillions": 1,
+    "isHabitable": false,
+    "discoveredAt": "3001-05-19",
+    "imageUrl": "https://example.com/images/planet-pyronex.jpg",
+    "climate": "volcanic",
+    "resources": ["lava-stone", "thermal-energy"],
+    "galaxy": {
+      "id": 6,
+      "galaxyId": 3,
+      "galaxyName": "Voidreach"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Verdantia",
+    "description": "Een perfecte balansplaneet met uitgestrekte bossen en vlaktes.",
+    "populationInMillions": 60,
+    "isHabitable": true,
+    "discoveredAt": "3016-08-10",
+    "imageUrl": "https://example.com/images/planet-verdantia.jpg",
+    "climate": "temperate",
+    "resources": ["wood", "food"],
+    "galaxy": {
+      "id": 7,
+      "galaxyId": 1,
+      "galaxyName": "Aetherion"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Noctyra",
+    "description": "Een planeet waar het nooit dag wordt.",
+    "populationInMillions": 9,
+    "isHabitable": true,
+    "discoveredAt": "3007-03-03",
+    "imageUrl": "https://example.com/images/planet-noctyra.jpg",
+    "climate": "dark",
+    "resources": ["shadow-crystals"],
+    "galaxy": {
+      "id": 8,
+      "galaxyId": 3,
+      "galaxyName": "Voidreach"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Auralis",
+    "description": "Een gasplaneet met zwevende levensvormen.",
+    "populationInMillions": 0,
+    "isHabitable": false,
+    "discoveredAt": "2999-10-17",
+    "imageUrl": "https://example.com/images/planet-auralis.jpg",
+    "climate": "gaseous",
+    "resources": ["helium-x", "energy-clouds"],
+    "galaxy": {
+      "id": 9,
+      "galaxyId": 2,
+      "galaxyName": "Nebulon Expanse"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Mythera",
+    "description": "Een magische planeet waar de natuur reageert op emoties.",
+    "populationInMillions": 27,
+    "isHabitable": true,
+    "discoveredAt": "3022-01-01",
+    "imageUrl": "https://example.com/images/planet-mythera.jpg",
+    "climate": "mystic",
+    "resources": ["mana", "ancient-relics"],
+    "galaxy": {
+      "id": 10,
+      "galaxyId": 1,
+      "galaxyName": "Aetherion"
+    }
+  }
+]

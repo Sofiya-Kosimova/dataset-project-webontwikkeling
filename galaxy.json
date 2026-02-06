@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Aetherion",
+    "description": "Een oude en mysterieuze galaxy vol energienevels en vergeten beschavingen.",
+    "ageInBillionYears": 13.2,
+    "isActive": true,
+    "discoveredAt": "3021-04-12",
+    "imageUrl": "https://example.com/images/galaxy-aetherion.jpg",
+    "type": "spiral",
+    "dominantRaces": ["Eldari", "Synths"],
+    "core": {
+      "id": "core-a1",
+      "energyLevel": 98,
+      "stable": true,
+      "coreImageUrl": "https://example.com/images/core-aetherion.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Nebulon Expanse",
+    "description": "Een chaotische galaxy waar sterren constant ontstaan en verdwijnen.",
+    "ageInBillionYears": 9.6,
+    "isActive": false,
+    "discoveredAt": "2987-11-03",
+    "imageUrl": "https://example.com/images/galaxy-nebulon.jpg",
+    "type": "irregular",
+    "dominantRaces": ["Dravak", "Nomads"],
+    "core": {
+      "id": "core-n1",
+      "energyLevel": 67,
+      "stable": false,
+      "coreImageUrl": "https://example.com/images/core-nebulon.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Voidreach",
+    "description": "Een donkere galaxy met extreem weinig licht en een hoge dichtheid aan zwarte gaten.",
+    "ageInBillionYears": 11.4,
+    "isActive": true,
+    "discoveredAt": "3004-06-27",
+    "imageUrl": "https://example.com/images/galaxy-voidreach.jpg",
+    "type": "elliptical",
+    "dominantRaces": ["Umbra", "Watchers"],
+    "core": {
+      "id": "core-v1",
+      "energyLevel": 45,
+      "stable": true,
+      "coreImageUrl": "https://example.com/images/core-voidreach.jpg"
+    }
+  }
+]
